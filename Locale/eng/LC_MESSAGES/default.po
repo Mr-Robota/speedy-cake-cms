@@ -1,0 +1,558 @@
+msgid "Benvenuto!"
+msgstr "Welcome!"
+
+msgid "versione"
+msgstr "version"
+
+msgid "Installazione"
+msgstr "Installation"
+
+msgid "Inserisci i dati dell\'utente amministratore."
+msgstr "Insert the administrator user\'s data."
+
+msgid "Installa"
+msgstr "Install"
+
+msgid "Tutti i campi sono obbligatori."
+msgstr "All fields are required."
+
+msgid "Inserisci una email valida."
+msgstr "Insert a valid email."
+
+msgid "Inserisci una username valida."
+msgstr "Insert a valid username."
+
+msgid "Inserisci una password valida."
+msgstr "Insert a valid password."
+
+msgid "Messaggio"
+msgstr "Message"
+
+msgid "Chiudi"
+msgstr "Close"
+
+msgid "Vai al Login"
+msgstr "Go to Login"
+
+msgid "Installazione completata :)"
+msgstr "Installation completed :)"
+
+msgid "Installazione fallita! :("
+msgstr "Installation failed! :("
+
+msgid "Ricordami"
+msgstr "Remember me"
+
+msgid "Hai dimenticato la Password?"
+msgstr "Forgot your Password?"
+
+msgid "Login fallito!"
+msgstr "Login failed!"
+
+msgid "Inserisci email."
+msgstr "Insert email."
+
+msgid "Inserisci una email valida."
+msgstr "Insert a valid email."
+
+msgid "Recupera password"
+msgstr "Forgot password"
+
+msgid "Inviami una nuova password"
+msgstr "Send me a new password"
+
+msgid "Nuova password"
+msgstr "New password"
+
+msgid "Ciao"
+msgstr "Hi"
+
+msgid "questa è la nuova password"
+msgstr "this is the new password"
+
+msgid "Email inviata."
+msgstr "Email sent."
+
+msgid "Email non trovata!"
+msgstr "Email not found!"
+
+msgid "A presto!"
+msgstr "Bye!"
+
+msgid "Bacheca"
+msgstr "Dashboard"
+
+msgid "Stai usando"
+msgstr "Are you using"
+
+msgid "Nome del sito:"
+msgstr "Sitename:"
+
+msgid "Utenti:"
+msgstr "Users:"
+
+msgid "Pagine:"
+msgstr "Pages:"
+
+msgid "Articoli:"
+msgstr "Articles:"
+
+msgid "Immagini:"
+msgstr "Images:"
+
+msgid "Crea un nuovo Articolo"
+msgstr "Create a new Article"
+
+msgid "Benvenuto Umano!"
+msgstr "Welcome Human!"
+
+msgid "Visualizza sito"
+msgstr "View website"
+
+msgid "Benvenuto"
+msgstr "Welcome"
+
+msgid "Esci"
+msgstr "Logout"
+
+msgid "Articoli"
+msgstr "Articles"
+
+msgid "Tutti gli Articoli"
+msgstr "All Articles"
+
+msgid "Nuovo Articolo"
+msgstr "New Article"
+
+msgid "Categorie"
+msgstr "Categories"
+
+msgid "Pagine"
+msgstr "Pages"
+
+msgid "Tutte le Pagine"
+msgstr "All Pages"
+
+msgid "Nuova Pagina"
+msgstr "New Page"
+
+msgid "Immagini"
+msgstr "Images"
+
+msgid "Tutte le Immagini"
+msgstr "All Images"
+
+msgid "Nuova Immagine"
+msgstr "New Image"
+
+msgid "Utenti"
+msgstr "Users"
+
+msgid "Tutti gli Utenti"
+msgstr "All Users"
+
+msgid "Nuovo Utente"
+msgstr "New User"
+
+msgid "Impostazioni"
+msgstr "Settings"
+
+msgid "Generali"
+msgstr "Generals"
+
+msgid "Lettura"
+msgstr "Reading"
+
+msgid "Scrittura"
+msgstr "Writing"
+
+msgid "Importa"
+msgstr "Import"
+
+msgid "Esporta"
+msgstr "Export"
+
+msgid "Indice"
+msgstr "Index"
+
+msgid "Aggiungi"
+msgstr "Add"
+
+msgid "Modifica"
+msgstr "Edit"
+
+msgid "Elimina"
+msgstr "Delete"
+
+msgid "elementi trovati"
+msgstr "elements found"
+
+msgid "Stato"
+msgstr "Status"
+
+msgid "Bozza"
+msgstr "Draft"
+
+msgid "Pubblicato"
+msgstr "Published"
+
+msgid "Cerca"
+msgstr "Search"
+
+msgid "Titolo"
+msgstr "Title"
+
+msgid "Autore"
+msgstr "Author"
+
+msgid "Data"
+msgstr "Date"
+
+msgid "Azioni"
+msgstr "Actions"
+
+msgid "Nessun elemento trovato."
+msgstr "No elements found."
+
+msgid "Pagina"
+msgstr "Page"
+
+msgid "di"
+msgstr "of"
+
+msgid "Prima"
+msgstr "First"
+
+msgid "Precedente"
+msgstr "Previous"
+
+msgid "Prossima"
+msgstr "Next"
+
+msgid "Ultima"
+msgstr "Last"
+
+msgid "Conferma"
+msgstr "Confirm"
+
+msgid "Sicuro di voler eliminare questo elemento?"
+msgstr "Sure you want to delete this item?"
+
+msgid "Si"
+msgstr "Yes"
+
+msgid "I dati sono stati eliminati."
+msgstr "The data has been deleted."
+
+msgid "Inserire il titolo."
+msgstr "Insert title."
+
+msgid "Selezionare file JPG, GIF o PNG."
+msgstr "Choose file JPG, GIF or PNG."
+
+msgid "Il titolo esiste già."
+msgstr "Title already exists."
+
+msgid "Aggiungi nuovo articolo"
+msgstr "Add new article"
+
+msgid "Immagine principale"
+msgstr "Main image"
+
+msgid "Scegli il file immagine"
+msgstr "Choose image file"
+
+msgid "Carica/Inserisci"
+msgstr "Upload/Insert"
+
+msgid "Contenuto"
+msgstr "Content"
+
+msgid "Campi Personalizzati"
+msgstr "Custom Fields"
+
+msgid "Salva"
+msgstr "Save"
+
+msgid "Chiave"
+msgstr "Key"
+
+msgid "Valore"
+msgstr "Value"
+
+msgid "Dati salvati."
+msgstr "Data saved."
+
+msgid "Carica"
+msgstr "Upload"
+
+msgid "Dimensione"
+msgstr "Size"
+
+msgid "Tipo"
+msgstr "Type"
+
+msgid "Aggiungi all\'Editor"
+msgstr "Add to Editor"
+
+msgid "Scegli il file."
+msgstr "Choose file."
+
+msgid "Nuovo Caricamento"
+msgstr "New Upload"
+
+msgid "Inserire la data."
+msgstr "Insert date."
+
+msgid "Inserire una data valida."
+msgstr "Insert a valid date."
+
+msgid "Modifica Articolo"
+msgstr "Edit Article"
+
+msgid "modificarlo solo se sei un Dio della SEO"
+msgstr "edit it only if you\'re a God of the SEO"
+
+msgid "Modifica Immagine"
+msgstr "Edit Image"
+
+msgid "Elimina Immagine"
+msgstr "Delete Image"
+
+msgid "Sicuro di voler eliminare questa immagine?"
+msgstr "Sure you want to delete this image?"
+
+msgid "Immagine eliminata."
+msgstr "Image deleted."
+
+msgid "Nuova Categoria"
+msgstr "New Category"
+
+msgid "Nome"
+msgstr "Name"
+
+msgid "Inserisci il nome."
+msgstr "Insert name."
+
+msgid "Il nome esiste già."
+msgstr "Name already exists."
+
+msgid "Aggiungi nuova categoria"
+msgstr "Add new category"
+
+msgid "Salvataggio fallito!"
+msgstr "Saving failed!"
+
+msgid "Modifica Categoria"
+msgstr "Edit Category"
+
+msgid "Aggiungi nuova pagina"
+msgstr "Add new page"
+
+msgid "Modifica Pagina"
+msgstr "Edit Page"
+
+msgid "Pagina eliminata."
+msgstr "Page deleted."
+
+msgid "Articolo eliminato."
+msgstr "Article deleted."
+
+msgid "Categoria eliminata."
+msgstr "Category deleted."
+
+msgid "Ritaglia Immagine"
+msgstr "Crop Image"
+
+msgid "Aggiungi nuova immagine"
+msgstr "Add new image"
+
+msgid "Immagine eliminata."
+msgstr "Image deleted."
+
+msgid "Seleziona una regione di ritaglio, quindi premi Crop Image."
+msgstr "Please select a crop region then press Crop Image."
+
+msgid "Immagine"
+msgstr "Image"
+
+msgid "Ruolo"
+msgstr "Role"
+
+msgid "Amministratore"
+msgstr "Administrator"
+
+msgid "Editore"
+msgstr "Editor"
+
+msgid "Autore"
+msgstr "Author"
+
+msgid "Le password non corrispondono."
+msgstr "Passwords do not match."
+
+msgid "Seleziona il ruolo."
+msgstr "Select role."
+
+msgid "Seleziona lo stato."
+msgstr "Select status."
+
+msgid "La username esiste già."
+msgstr "The username already exists."
+
+msgid "L\'email esiste già."
+msgstr "The email already exists."
+
+msgid "Aggiungi nuovo utente"
+msgstr "Add new user"
+
+msgid "Ripeti la Password"
+msgstr "Repeat Password"
+
+msgid "Attivo"
+msgstr "Active"
+
+msgid "Inattivo"
+msgstr "Inactive"
+
+msgid "Modifica Utente"
+msgstr "Edit User"
+
+msgid "Modifica Avatar"
+msgstr "Edit Avatar"
+
+msgid "inserisci per modificare"
+msgstr "enter to edit"
+
+msgid "Utente eliminato."
+msgstr "User deleted."
+
+msgid "In Manutenzione"
+msgstr "Maintenance mode"
+
+msgid "Formato testo"
+msgstr "Text format"
+
+msgid "Tutto il testo"
+msgstr "All text"
+
+msgid "Estratto"
+msgstr "Excerpt"
+
+msgid "Convertire le emoticon testuali in immagini"
+msgstr "Convert textual emoticons in images"
+
+msgid "Profilo Facebook"
+msgstr "Facebook Profile"
+
+msgid "Profilo Google+"
+msgstr "Google+ Profile"
+
+msgid "Profilo Instagram"
+msgstr "Instagram Profile"
+
+msgid "Profilo LinkedIn"
+msgstr "LinkedIn Profile"
+
+msgid "Profilo Twitter"
+msgstr "Twitter Profile"
+
+msgid "Canale YouTube"
+msgstr "YouTube Channel"
+
+msgid "Inserisci l\'SQL o scegli il file."
+msgstr "Insert SQL or choose file."
+
+msgid "Scegliere un file SQL o TXT."
+msgstr "Choose file SQL or TXT."
+
+msgid "Scegli file"
+msgstr "Choose file"
+
+msgid "o incolla l\'SQL"
+msgstr "or Paste SQL"
+
+msgid "Database importato. Questo è meraviglioso :)"
+msgstr "Database imported. This is wonderful :)"
+
+msgid "Importazione Database non riuscita! :("
+msgstr "Database import failed! :("
+
+msgid "Scarica un Backup del Database"
+msgstr "Download a Database Backup"
+
+msgid "Lunedì,"
+msgstr "Mond,"
+
+msgid "Martedì,"
+msgstr "Tue,"
+
+msgid "Mercoledì,"
+msgstr "Wed,"
+
+msgid "Giovedì,"
+msgstr "Thu,"
+
+msgid "Venerdì,"
+msgstr "Fri,"
+
+msgid "Sabato,"
+msgstr "Sat,"
+
+msgid "Domenica,"
+msgstr "Sun,"
+
+msgid "Gennaio"
+msgstr "Jan"
+
+msgid "Febbraio"
+msgstr "Feb"
+
+msgid "Marzo"
+msgstr "Mar"
+
+msgid "Aprile"
+msgstr "Apr"
+
+msgid "Maggio"
+msgstr "May"
+
+msgid "Giugno"
+msgstr "Jun"
+
+msgid "Luglio"
+msgstr "Jul"
+
+msgid "Agosto"
+msgstr "Aug"
+
+msgid "Settembre"
+msgstr "Sep"
+
+msgid "Ottobre"
+msgstr "October"
+
+msgid "Novembre"
+msgstr "November"
+
+msgid "Dicembre"
+msgstr "December"
+
+msgid "Scritto da"
+msgstr "Written by"
+
+msgid "Pagina non trovata!"
+msgstr "Page not found!"
+
+msgid "Ops! Pagina non trovata. Effettua una ricerca, pensa positivo, e troverai quello che cerchi :)"
+msgstr "Ooops! Page not found. Try searching, think positive, and you\'ll find what you\'re looking for :)"
+
+msgid "Torneremo online a breve"
+msgstr "We will be back online shortly"
+
+msgid "Ultimi Articoli"
+msgstr "Last Articles"
+
+msgid "Crea un nuovo Articolo"
+msgstr "Create a new Article"
+
