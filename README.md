@@ -27,10 +27,10 @@ CakePHP 2.5.1+
 - upload (and overwrite) the "webroot" folder in the /app folder
 - copy the configuration variables from SpeedyCake/Config/bootstrap.php to /app/Config/bootstrap.php
 - Edit the configuration variables
-- copy the url from SpeedyCake/Config/routes.php to /app/Config/routes.php
-- open your website url http://your_website via browser and install the CMS
+- copy the urls from SpeedyCake/Config/routes.php to /app/Config/routes.php
+- open your website url (http://your_website) via browser and install the CMS
 
-<h3>For use of custom field in the template</h3>
+<h3>For use of custom fields in the template</h3>
 
 <?php if ($this->SpeedyCake->ifExists('pagefields')) { ?>
 
