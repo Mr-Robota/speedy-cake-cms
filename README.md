@@ -3,6 +3,19 @@ speedy-cake-cms
 
 SpeedyCake allows you to create a CMS with CakePHP.
 
+<h4>Features</h4>
+
+- Manage pages
+- Manage articles
+- Manage categories
+- Manage images
+- Manage users (administrators, editors, authors)
+- Manage custom fields
+- Manage meta tags/urls (SEO)
+- Open Graph integrated
+- Import/export database
+- Localization: English, Italian
+
 <h2>Requirements</h2>
 
 HTTP Server. For example: Apache.
